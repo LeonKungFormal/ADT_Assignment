@@ -1,7 +1,7 @@
 # ADT_Assignment
 Completed Java project with emphasis on sorting and algorithm
 
-This project is created based on a Security Guard System that allow quick respond on emergency to be handled in a effective and efficient manner
+This project is created based on a Security Guard System that allow quick respond on emergency to be handled in a effective and efficient manner. The system was designed for closed community (High end apartment, university, offices)
 
 The User and the guard/staff of the system are hardcoded
 
